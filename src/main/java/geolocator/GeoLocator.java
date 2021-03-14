@@ -1,7 +1,7 @@
 package geolocator;
 
 import java.net.URL;
-
+import GeoLocation.GeoLocation;
 import java.io.IOException;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
